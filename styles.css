@@ -1,1 +1,16 @@
 /*  your css code here. If applicable */
+.item{
+	background-color:#F5F4F6;
+	padding:20px;
+	font-size:9px;
+	width:70%;	
+}
+.container{
+	padding:10px ;
+	background-color:white;
+	border:1px gray solid;
+}
+
+.author{
+	text-align:end;
+}
